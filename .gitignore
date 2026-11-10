@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# berkas bantu lokal (bukan bagian aplikasi)
+audit-klinik.ps1
+page-klinik.txt
+AUDIT-KLINIK-*.txt
+*.zip
